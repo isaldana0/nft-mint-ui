@@ -14,7 +14,7 @@ const tokenName = "Etherfuse"
 const description = "Discover Etherfuse vNFTs"
 const symbol = "FUSE"
 const sellerFeeBasisPoints = 100
-const imageFile = "vnft1.png"
+const imageFile = "vnft2.png"
 
 
 async function main() {
